@@ -22,6 +22,10 @@
 
 
 
+---
+
+
+
 **This starter pack contains the following features:**
 
 ### Styles
@@ -51,5 +55,5 @@
 ### Build System
 
 * [Gulp](https://gulpjs.com/)
-* [Browser Sync](https://www.browsersync.io/)
+* [Browser Sync](https://www.browsersync.io/) (**note**: if external link does not work on mobile use [LocalTunnel's](https://localtunnel.github.io/www/) link)
 * [imagemin](https://github.com/imagemin/imagemin)
