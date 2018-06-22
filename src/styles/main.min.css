@@ -18,7 +18,7 @@
  *
  * Released on: April 1, 2018
  */
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600,700");
 .swiper-container {
   margin: 0 auto;
   position: relative;
@@ -545,27 +545,6 @@ button.swiper-pagination-bullet {
 /*
   Fonts Declerations
 */
-@font-face {
-  font-family: Helvetica;
-  src: url("../assets/fonts/Helvetica.woff2") format("opentype");
-  font-weight: 400; }
-
-@font-face {
-  font-family: Helvetica;
-  src: url("../assets/fonts/Helvetica-Bold.woff2") format("opentype");
-  font-weight: bold; }
-
-@font-face {
-  font-family: Helvetica;
-  src: url("../assets/fonts/Helvetica-Black.woff2") format("opentype");
-  font-weight: 900; }
-
-@font-face {
-  font-family: Helvetica;
-  src: url("../assets/fonts/Helvetica-Black-Oblique.woff2") format("opentype");
-  font-weight: bold;
-  font-style: oblique; }
-
 /* stylelint-disable */
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
@@ -882,7 +861,7 @@ html {
 
 body {
   background-color: whitesmoke;
-  font-family: Helvetica, sans-serif;
+  font-family: Helvetica, 'montserrat', sans-serif;
   line-height: 1.45;
   color: #333; }
 
