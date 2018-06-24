@@ -1,4 +1,4 @@
-# Starter Pack for Simple Static Website
+# Starter Pack for Simple Static Websites
 
 ---
 
